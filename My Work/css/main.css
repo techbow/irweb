@@ -1,0 +1,98 @@
+body {
+	background-image:url("../image/page-mock.png"); 
+	background-repeat:no-repeat;
+	background-size:1024px 885px;
+}
+
+* {
+	font-family:Verdana, Arial !important;
+}
+
+.Article {
+	width:1024px;
+	height:885px; 
+}
+#ArticleH {
+    font-size:48px;
+    color:#666666;
+    padding-top:35px;
+    padding-left:260px; 
+    /*border: 3px solid #8AC007;*/
+}
+
+.LeftSide {
+	position:absolute;
+	top:120px;
+	width:420px;
+	height:700px; 
+}
+
+#ImageLocation {
+	position:absolute;
+	top:5px;
+	left:34px;
+	width:380px;
+	height:380px; 
+}
+
+#ListLocation {
+	position:absolute;;
+	top:412px;
+	left:34px;
+	width:372px;
+	height:222px;
+	border: 1px solid #666666; 
+}
+
+#MainFeatures {
+	color:#f07c17;
+	position:absolute;
+    top:8px;
+    left:30px;
+}
+	
+.List {
+	position:absolute;
+	top:76px;
+	left:30px;
+}
+
+#AdjustListItem {
+	margin:13px 0;
+}
+
+.RightSide {
+	position:absolute;
+	top:105px;
+	left:430px;
+	width:552px;
+	height:780px;
+}
+
+#GoodWaytoStart {
+	position:absolute;
+	top:1px;
+	left:16px;
+	color:#f07c17;
+}
+
+#Content {
+	position:absolute;
+	top:64px;
+	left:16px;
+}
+
+p {
+	color:#666666;
+	line-height: 200%;
+}
+
+#P2 {
+	position:absolute;
+	top:264px;
+}
+
+#P3 {
+	position:absolute;
+	top:466px;
+}
