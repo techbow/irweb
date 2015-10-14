@@ -1,0 +1,72 @@
+
+/* This is for the default value */
+body {
+	font-family: Verdana;
+	background-size: 1024px 885px;
+	/*background-color: #b0c4de;*/
+
+}
+
+/* This is for the photo */
+#photo{
+	width:150px;
+	height:150px;
+	float:left;
+	margin-left:10px;
+	border-radius:100px 100px 100px 100px;
+	padding:20px;
+}
+
+.header{
+margin:20px, 0, 40px, 0
+}
+
+.feature{
+margin:20px, 40px, 20px, 40px;
+height:300px
+}
+
+
+.contact{
+	text-align:right;
+}
+#name{
+	border:5px;
+	font-size: 36px;
+	font-weight:bold;
+}
+h2 {
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration: underline;
+	clear:both;
+}
+
+#title{
+	font-size: 16px;
+}
+
+
+ul,li {
+	font-size: 16px;
+	list-style-type:circle;
+}
+
+p {
+	font-size: 16px;
+    line-height: 32px;
+}
+
+.box_left {
+	width: 48%;
+	float:left;
+}
+.box_right {
+	width: 48%;
+	float:right;
+}
+
+
+.profile{
+	text-align:left;
+}
