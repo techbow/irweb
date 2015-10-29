@@ -1,0 +1,303 @@
+
+.pageSize {
+	border:3px solid red;
+	width:980px;
+	height:2000px;
+	margin:auto;
+	position:relative;
+}
+
+.nameSection {
+	position:relative;
+	top:4%;
+	float:left;
+	width:55%;
+	height:200px;
+}
+
+.photo {	
+	width:120px;
+	height:120px;
+	border-radius:50%;
+	border:3px solid red;
+	position:absolute;
+	top:5%;
+	left:10%;
+
+}
+
+.name {
+	width:300px;
+	height:200px;
+	position:absolute;
+	left:40%;
+}
+
+h1 {
+	font-family:'Arial black', Arial;
+	text-shadow: 2px 2px 5px red;
+}
+
+h3 {
+	font-family:cursive, Arial;
+}
+
+.contactSection {
+	width:30%;
+	height:160px;
+	position:absolute;
+	top:6%;
+	right:5%;
+	
+}
+
+.contactP {
+	font-family:Verdana, Arial;
+	font-size:15px;
+	font-weight:bold;
+	text-align:right;
+}
+
+.inlineList1 {
+	width:80px;
+	height:80px;
+	position:absolute;
+	top:15%;
+	margin-left:5%;
+	font-family:Arial;
+	font-size:70px;
+	text-align:right;
+}
+
+.inlineList2 {
+	width:120px;
+	height:40px;
+	position:absolute;
+	top:17%;
+	margin-left:15%;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	text-align:left;
+}
+
+.inlineList3 {
+	width:80px;
+	height:80px;
+	position:absolute;
+	top:15%;
+	margin-left:35%;
+	font-family:Arial;
+	font-size:70px;
+	text-align:right;
+}
+
+.inlineList4 {
+	width:120px;
+	height:40px;
+	position:absolute;
+	top:17%;
+	margin-left:45%;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	text-align:left;
+}
+
+.inlineList5 {
+	width:80px;
+	height:80px;
+	position:absolute;
+	top:15%;
+	margin-left:65%;
+	font-family:Arial;
+	font-size:70px;
+	text-align:right;
+}
+
+.inlineList6 {
+	width:120px;
+	height:40px;
+	position:absolute;
+	top:17%;
+	margin-left:75%;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	text-align:left;
+}
+
+.profile {
+	width:450px;
+	height:500px;
+	position:relative;
+	float:left;
+	clear:left;
+	top:12%;
+}
+
+.education {
+	width:450px;
+	height:500px;
+	position:relative;
+	margin-left:50%;
+	top:22%;
+}
+
+.experience {
+	width:450px;
+	height:1000px;
+	position:relative;
+	float:left;
+	clear:left;
+	top:14%;
+
+}
+
+.projects {
+	width:450px;
+	height:400px;
+	position:relative;
+	margin-left:50%;
+	top:24%;
+
+}
+
+.skills {
+	width:450px;
+	height:300px;
+	position:relative;
+	margin-left:50%;
+	top:25%;
+}
+
+.languages {
+	width:450px;
+	height:200px;
+	position:relative;
+	margin-left:50%;
+	top:27%
+}
+
+.icon {
+	width:40px;
+	height:40px;
+	position:absolute;
+	left:12%;
+	margin-top:3%;
+}
+
+h2 {
+	position:absolute;
+	margin-left:22%;
+	font-family:'Arial black', Arial;
+	text-shadow:2px 2px 5px red;
+}
+
+.underLine {
+	border:3px solid red;
+	width:390px;
+	position:absolute;
+	margin-left:12%;
+	margin-top:11%;
+}
+
+.profileContent {
+	width:390px;
+	height:430px;
+	position:absolute;
+	top:12%;
+	left:12%;
+	overflow: auto;
+}
+
+.circle {
+	width:20px;
+	height:20px;
+}
+
+.educationRow {
+	display:table-row;
+}
+
+.educationCell {
+	display:table-cell;
+	padding-left:10px;
+	padding-right:10px;
+	line-height: 50%;
+
+}
+
+.listHeader {
+	font-family:cursive;
+	font-weight:bold;
+	font-size:22px;
+	line-height:100%;
+
+}
+
+.experienceContent {
+	width:390px;
+	height:850px;
+	position:absolute;
+	top:8%;
+	left:12%;
+	overflow:auto;
+}
+
+.experienceRow {
+	display:table-row;
+}
+
+.experienceCell {
+	display:table-cell;
+	padding-left:10px;
+	padding-right:10px;
+	line-height: 100%;
+
+}
+
+.projectContent {
+	width:390px;
+	height:330px;
+	position:absolute;
+	top:18%;
+	left:12%;
+}
+
+
+.skillContent {
+	width:390px;
+	height:270px;
+	position:absolute;
+	top:22%;
+	left:12%;
+}
+
+.row {
+	display:table-row;
+}
+
+.cell {
+	display:table-cell;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.cell p {
+	font-weight:bold;
+}
+
+.languageContent {
+	width:390px;
+	height:120px;
+	position:absolute;
+	top:32%;
+	left:12%;
+}
+
+.languageContent p {
+	font-weight:bold;
+	padding-left: 30px;
+
+}
